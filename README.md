@@ -44,13 +44,9 @@ er-attachments/assets/5091f146-f56c-4c80-9073-574184816de0" />
 <img width="692" height="545" alt="image" src="https://github.com/user-attachments/assets/5163e11f-7921-44c9-9022-e023911e848f" />
 
 
-💡 Biggest Finding
 
-(Fill this in with your real #1 insight once you re-share the notebook — e.g. "Patients with high stress scores AND low exercise minutes showed disease rates 2x higher than the rest of the dataset.")
 
-🧠 Why It Mattered
 
-This wasn't just plotting columns against a target — it meant thinking about which factors are modifiable (exercise, sleep, diet) versus fixed (age, family history), since that's the distinction that actually matters for prevention.
 
 🧰 Tools
 
