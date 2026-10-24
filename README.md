@@ -23,6 +23,8 @@ Symptoms	chest pain type, exercise-induced angina, ST depression
 Lifestyle	smoker status, alcohol units/week, exercise minutes/week, sleep hours, stress score, daily steps, diet quality score
 Background	family history
 Target	has_heart_disease
+
+
 🔬 What I Actually Did
 Cleaned the data: checked for missing values, verified data types, handled outliers in vitals/labs
 Explored risk patterns:
@@ -32,8 +34,7 @@ How much does family history and smoking status shift the odds?
 Which single factor separates high-risk from low-risk patients most clearly?
 Visualized the story: distribution plots, correlation heatmaps, and comparison charts across the has_heart_disease groups
 📸 The Findings, Visually
-
-er-attachments/assets/5091f146-f56c-4c80-9073-574184816de0" />    
+   
 
 <img width="692" height="552" alt="image" src="https://github.com/user-attachments/assets/5d1f8a16-bc36-4149-8652-95a11b94ea2e" />
 
@@ -58,4 +59,4 @@ heart_disease_risk_2026.csv — dataset (9,000 records)
 images/ — exported charts
 📄 License
 
-MIT — free to use, fork, and build on.
+MIT 
